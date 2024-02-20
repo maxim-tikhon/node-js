@@ -1,0 +1,3 @@
+20240220	11:59:45	61ebe6c8-6979-479a-a4e1-c40938dccc38	GET	undefined	/
+20240220	11:59:45	1e0f367f-fdab-44ea-ad74-4fa83bb05d26	GET	undefined	/css/style.css
+20240220	12:13:37	18e49ddf-b18f-44f2-b1a0-dbadc63e9da2	GET	undefined	/
