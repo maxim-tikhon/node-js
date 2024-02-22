@@ -1,8 +1,0 @@
-20240220	12:13:37	ef67c626-7f33-40b6-b589-1bd5ee6f83cc	Error: Not allowed by CORS
-20240221	00:25:35	2bea2132-0d12-4675-bc9b-313780fa16d0	Error: ENOENT: no such file or directory, stat '/Users/maximtikhon/Projects/node-js/08TUT/routes/views/index.html'
-20240221	00:25:37	23305dc3-2049-41d2-9954-2f8f5c60a01a	Error: ENOENT: no such file or directory, stat '/Users/maximtikhon/Projects/node-js/08TUT/routes/views/index.html'
-20240221	00:25:38	8a038863-b2cb-46b4-a7b9-739037602895	Error: ENOENT: no such file or directory, stat '/Users/maximtikhon/Projects/node-js/08TUT/routes/views/index.html'
-20240221	00:25:39	3ea4b77e-1a0a-4d65-beb3-097aeb3c64c3	Error: ENOENT: no such file or directory, stat '/Users/maximtikhon/Projects/node-js/08TUT/routes/views/index.html'
-20240221	00:25:39	963782a0-0dc7-4b6c-b7d3-1e96081a6c67	Error: ENOENT: no such file or directory, stat '/Users/maximtikhon/Projects/node-js/08TUT/routes/views/index.html'
-20240221	00:25:39	8e84eff2-6636-4702-b478-56bf9acc243d	Error: ENOENT: no such file or directory, stat '/Users/maximtikhon/Projects/node-js/08TUT/routes/views/index.html'
-20240221	00:25:39	d458f3f4-830a-45e8-b9b3-2063e6a410e6	Error: ENOENT: no such file or directory, stat '/Users/maximtikhon/Projects/node-js/08TUT/routes/views/index.html'
